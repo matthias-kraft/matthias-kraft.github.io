@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://mkraft89.github.io/tags/</link>
+    <link>https://matthias-kraft.github.io/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mkraft89.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://matthias-kraft.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LakeraAI</title>
-      <link>https://mkraft89.github.io/tags/lakeraai/</link>
+      <link>https://matthias-kraft.github.io/tags/lakeraai/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mkraft89.github.io/tags/lakeraai/</guid>
+      <guid>https://matthias-kraft.github.io/tags/lakeraai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>safeai</title>
-      <link>https://mkraft89.github.io/tags/safeai/</link>
+      <link>https://matthias-kraft.github.io/tags/safeai/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mkraft89.github.io/tags/safeai/</guid>
+      <guid>https://matthias-kraft.github.io/tags/safeai/</guid>
       <description></description>
     </item>
     
