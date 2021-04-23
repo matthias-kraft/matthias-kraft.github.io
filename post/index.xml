@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://mkraft89.github.io/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mkraft89.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is AI making the same mistakes as us?</title>
+      <link>https://mkraft89.github.io/is-ai-making-the-same-mistakes-as-us/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mkraft89.github.io/is-ai-making-the-same-mistakes-as-us/</guid>
+      <description>Is AI making the same mistakes as us? I watched the Netflix documentary CodedBias last weekend. And it raised some rather good points about AI development. For those of you who haven’t yet seen the film, it tells the story of a group of inspiring women fighting against the dark side of AI. The documentary feels like a natural follow-up to the film SocialDilemma. And, if you were horrified by the practices uncovered in it, I strongly recommend you also watch CodedBias!</description>
+    </item>
+    
+  </channel>
+</rss>
